@@ -1,0 +1,17 @@
+*{
+  text-align: center;
+} 
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(221, 214, 215);
+}
+/*making the font a certain type an aligning it to the centre*/
+.con{
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 300px;
+  border-radius: 30px;
+}

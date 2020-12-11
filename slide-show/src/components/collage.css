@@ -1,0 +1,31 @@
+ul{
+    list-style: none;
+    padding: 0;
+    width: 30%;
+    margin: auto;
+}
+
+li{
+    font-size: 25px;
+    line-height: 2rem;
+    
+}
+
+.Center{
+    align-items: center;
+    justify-content: center;
+  
+}
+.alig{
+    padding: 20px;
+    margin-left: 38%;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+}
+.move{
+    margin-top: 10%;
+    margin-left: 1%;
+    margin-right: auto;
+}
+
